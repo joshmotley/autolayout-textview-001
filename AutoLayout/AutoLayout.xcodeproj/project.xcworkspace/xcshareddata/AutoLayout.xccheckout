@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>AF24010C-A442-45D1-9772-B0FD6B544CCF</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>AutoLayout</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>3971AA7A8A9A3D337EC09C080B7C2D7484E38AF8</key>
 		<string>https://github.com/joshmotley/autolayout-textview-001.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>AutoLayout/AutoLayout.xcodeproj/project.xcworkspace</string>
+	<string>AutoLayout/AutoLayout.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>3971AA7A8A9A3D337EC09C080B7C2D7484E38AF8</key>
